@@ -2,42 +2,43 @@
 
 ## Participant Details
 
-**Full Name:**  
-<!-- Write your full name -->
+## Full Name:
+Chirra Jyothika
 
-**GitHub Username:**  
-<!-- Write your GitHub username -->
+## GitHub Username:
+JyothikaChirra
 
-**Team Name:**  
-<!-- Write your team name -->
+## Team Name:
+OneCore
 
-**College/University:**  
-<!-- Write your college/university name -->
-
----
-
+## College/University:
+SR University
+----
 ## Project Details
 
-**Project Title:**  
-<!-- Write your project/idea title -->
+## Project Title:
+Sherise - Empower & Protect
 
-**Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+## Project Description:
+Sherise is a women safety and empowerment platform designed to provide support, awareness, and emergency assistance. The platform enables users to access safety resources, report incidents, connect with support services, and stay informed through a user-friendly interface. The goal of the project is to improve women's safety, promote empowerment, and provide quick access to help when needed.
 
-**Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+## Tech Stack Used:
+React.js
+TypeScript
+Vite
+Supabase
+Tailwind CSS
 
-**GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+## GitHub Repository Link:
+https://github.com/JyothikaChirra/sherise-open-source-hackathon
 
-**Live Demo Link:**  
-<!-- Add deployed link if available -->
+## Live Demo Link:
+https://sherise-empower-protect.lovable.app/
 
-**Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+## Presentation / Demo Video Link:
+Not Available
 
 ---
-
 ## Open Source Readiness
 
 - [ ] My project is public on GitHub
