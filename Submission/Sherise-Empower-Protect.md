@@ -2,22 +2,17 @@
 
 ## Participant Details
 
-## Full Name:
-Chirra Jyothika
+## Full Name: Chirra Jyothika
 
-## GitHub Username:
-JyothikaChirra
+## GitHub Username: JyothikaChirra
 
-## Team Name:
-OneCore
+## Team Name: OneCore
 
-## College/University:
-SR University
+## College/University: SR University
 ----
 ## Project Details
 
-## Project Title:
-Sherise - Empower & Protect
+## Project Title: Sherise - Empower & Protect
 
 ## Project Description:
 Sherise is a women safety and empowerment platform designed to provide support, awareness, and emergency assistance. The platform enables users to access safety resources, report incidents, connect with support services, and stay informed through a user-friendly interface. The goal of the project is to improve women's safety, promote empowerment, and provide quick access to help when needed.
